@@ -1,0 +1,4 @@
+<launch>
+	<node pkg="joy_fyt" type="node" name="joy_fyt" />
+	<node pkg="joy" type="joy_node" name="joy" />
+</launch>
